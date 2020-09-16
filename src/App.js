@@ -90,7 +90,7 @@ mudarPagina(pagina){
     return
   }
   if(pagina===1){
-    this.setState({pagina:pagina,indice:0})
+    this.setState({pagina:pagina,indice:1})
     return
   }
   let i=this.state.indice+10
