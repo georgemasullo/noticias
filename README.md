@@ -24,3 +24,5 @@ Link para a aplicação, [clique aqui](https://noticias.vercel.app/)
 Link para a paleta, [clique aqui](https://coolors.co/ffffff-f8f9fa-87ceeb-17a2b8-007bff)
 
 Imagens da aplicação:
+
+![noticias 1](https://user-images.githubusercontent.com/34112779/93472511-215cc980-f8cb-11ea-9623-783d922ae705.png)
