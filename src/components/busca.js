@@ -22,10 +22,10 @@ class Busca extends Component {
     return (
         <form class="form-inline" onSubmit={this.filtra}>
         <div class="form-group">
-       <input class="form-control mr-sm-2" type="search" placeholder="Search"
+       <input class="form-control mr-sm-2" type="search" placeholder="Título da notícia"
                             value={this.state.value}
                             onChange={this.handleChange}/>
-       <button class="btn btn-info" type="submit">Search</button>
+       <button class="btn btn-info" type="submit">Buscar</button>
        </div>
      </form>
     )
